@@ -1,0 +1,16 @@
+[[package]]
+name = "izzy"
+version = "0.1.0"
+
+[[package]]
+name = "kalman-filtering-experiments"
+version = "0.1.0"
+dependencies = [
+ "izzy 0.1.0",
+ "rudie 0.1.0",
+]
+
+[[package]]
+name = "rudie"
+version = "0.1.0"
+
