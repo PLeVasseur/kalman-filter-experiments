@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Peter LeVasseur <plevasseur@gmail.com>"]
 
 [dependencies]
-izzy = { path = "../izzy" }
 rudie = { path = "../rudie" }
+typenum = "1.10.0"
